@@ -6,7 +6,7 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "Gift Muuo",
+  "author": "Rahel",
   "license": "ISC",
   "description": "",
   "devDependencies": {
